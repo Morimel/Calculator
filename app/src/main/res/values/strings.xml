@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator2</string>
+
+    <string-array name="rangeSlider">
+        <item>20</item>
+        <item>70</item>
+    </string-array>
+</resources>
